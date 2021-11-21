@@ -13,12 +13,14 @@ Personal Diary Management System is based on concept to generate Personal Daily 
 
 #### **Above features are shown in the below screenshot.**
 
-![](RackMultipart20211120-4-1bxtc2a_html_65bc5b6e87178ec9.png)
+![image](https://user-images.githubusercontent.com/92582541/142755966-66980c59-2e6f-4fcf-961b-6e79383e20ff.png)
+
 
 **Defining Our System**
 
-- S ![](RackMultipart20211120-4-1bxtc2a_html_664b3cf0940c3c22.png)
- ystem basically takes input from the user and checks for the file, and then it prints the file. for running the code it checks for the available code and run it in the compiler i.e GCC and prints the output
+![image](https://user-images.githubusercontent.com/92582541/142755994-860eb5a4-bea1-4301-b2a1-0a3fdedb4512.png)
+
+ System basically takes input from the user and checks for the file, and then it prints the file. for running the code it checks for the available code and run it in the compiler i.e GCC and prints the output
 
 **SWOT ANALYSIS**
 
@@ -86,3 +88,4 @@ Personal Diary Management System is based on concept to generate Personal Daily 
 | LLR-1 | It shows error while entering wrong password | Implemented |
 | LLR-2 | It should connect with personal id | Future |
 | LLR-3 | Password is must for privacy | Implemented |
+
