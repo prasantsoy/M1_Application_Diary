@@ -13,11 +13,11 @@ Personal Diary Management System is based on concept to generate Personal Daily 
 
 #### **Above features are shown in the below screenshot.**
 
-![](RackMultipart20211121-4-12ndkbt_html_65bc5b6e87178ec9.png)
+![](RackMultipart20211120-4-1bxtc2a_html_65bc5b6e87178ec9.png)
 
 **Defining Our System**
 
-- S ![](RackMultipart20211121-4-12ndkbt_html_664b3cf0940c3c22.png)
+- S ![](RackMultipart20211120-4-1bxtc2a_html_664b3cf0940c3c22.png)
  ystem basically takes input from the user and checks for the file, and then it prints the file. for running the code it checks for the available code and run it in the compiler i.e GCC and prints the output
 
 **SWOT ANALYSIS**
